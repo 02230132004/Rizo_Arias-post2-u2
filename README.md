@@ -2,7 +2,7 @@
 **Estudiante:** Miguel rizo arias  
 **Asignatura:** Aplicaciones Móviles – Ingeniería de Sistemas UDES 2026  
 
-## Brief de la App (≈280 palabras)
+## Brief de la App 
 HidraVida es una aplicación móvil ficticia de salud y hábitos que ayuda a adultos jóvenes (18–35 años) en regiones cálidas como Norte de Santander (Cúcuta) a mantener una hidratación adecuada. En climas con temperaturas >30°C frecuentes, muchas personas olvidan beber agua por rutinas ocupadas, lo que causa fatiga, dolores de cabeza y riesgos renales a largo plazo.  
 
 **Problema central:** Falta de recordatorios personalizados y visualización clara del progreso de hidratación diaria/semanal.  
