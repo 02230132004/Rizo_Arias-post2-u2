@@ -32,14 +32,12 @@ Verificado con WebAIM Contrast Checker.
 2. **Actualización progreso** → Trigger: save OK; Feedback: animación círculo + badge celebración.
 
 ## Enlace Figma
-
+https://www.figma.com/make/u8iq7SIjpVkjOPvc3snu45/HidraVida?t=thl91ox56S9I6jyu-1
 
 ## Referencias
 - Material Design 3: https://m3.material.io  
 - WCAG 2.1 AA: https://www.w3.org/TR/WCAG21/#contrast-minimum  
 - Dan Saffer – Microinteractions (modelo trigger-rules-feedback-loop)
 
-link de figma : https://www.figma.com/make/u8iq7SIjpVkjOPvc3snu45/HidraVida?t=thl91ox56S9I6jyu-1
 
-ahi esta todas las vistas 
 
